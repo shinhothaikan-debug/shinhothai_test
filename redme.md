@@ -3,4 +3,4 @@ Faii : learn Atom : game
 
 ## Team 
 Faii Atom
-atom like kapao
+atom like KFC
